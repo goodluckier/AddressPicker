@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddressPicker.iml" filepath="$PROJECT_DIR$/AddressPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addresspickerlib/addresspickerlib.iml" filepath="$PROJECT_DIR$/addresspickerlib/addresspickerlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
